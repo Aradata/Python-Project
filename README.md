@@ -5,4 +5,3 @@ The main goal of this project is to find the price of the Bangalore house using 
 
 Do Exploratory Data Analysis,Feature Engineering and selection.
 Prepare a proper Machine Learning Algorithm to Predict the Price of Bangalore House Based on Multiple Columns.
-To view Jupyter Notebook click here
